@@ -56,3 +56,25 @@ main {
         }
     }
 }
+
+.menu-shop {
+    background-color: $primary-color;
+    color: #fff;
+    padding: 10px 0;
+    .container {
+        display: flex;
+        .box {
+            @include center;
+            flex-basis: calc(100% / 5);
+            padding: 20 15px;
+            cursor: pointer;
+            img {
+                width: 35px;
+                margin-right: 10px;
+            }
+            span {
+                font-size: 12px;
+            }
+        }
+    }
+}

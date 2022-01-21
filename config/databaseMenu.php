@@ -2,52 +2,52 @@
 
 return [
     [
-        "url" => "#",
+        "url" => "characters",
         "name" => 'CHARACTERS',
         "active" => false,
     ],
     [
-        "url" => "#",
+        "url" => "comics",
         "name" => 'COMICS',
         "active" => true,
     ],
     [
-        "url" => "#",
+        "url" => "movies",
         "name" => 'MOVIES',
         "active" => false,
     ],
     [
-        "url" => "#",
+        "url" => "tv",
         "name" => 'TV',
         "active" => false,
     ],
     [
-        "url" => "#",
+        "url" => "games",
         "name" => 'GAMES',
         "active" => false,
     ],
     [
-        "url" => "#",
+        "url" => "collectibles",
         "name" => 'COLLECTIBLES',
         "active" => false,
     ],
     [
-        "url" => "#",
+        "url" => "videos",
         "name" => 'VIDEOS',
         "active" => false,
     ],
     [
-        "url" => "#",
+        "url" => "fans",
         "name" => 'FANS',
         "active" => false,
     ],
     [
-        "url" => "#",
+        "url" => "news",
         "name" => 'NEWS',
         "active" => false,
     ],
     [
-        "url" => "#",
+        "url" => "shop",
         "name" => 'SHOP',
         "active" => false,
     ],

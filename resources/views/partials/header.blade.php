@@ -9,7 +9,8 @@
         <ul>
             @foreach (config('databaseMenu') as $link)
                 <li>
-                    <a class="" href="{{ $link['url'] }}">{{ $link['name'] }}</a>
+                    <a class="{{ Route::currentRouteName() === $link['url'] ? 'active' : '' }}"
+                        href="{{ $link['url'] }}">{{ $link['name'] }}</a>
                 </li>
             @endforeach
         </ul>
