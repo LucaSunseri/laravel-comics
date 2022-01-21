@@ -71,19 +71,24 @@
                 <span>FOLLOW US</span>
                 <ul>
                     <li>
-                        <a href="#"><img src="{{ asset('img/footer-facebook.png') }}" alt="Facebook"></a>
+                        <a href="https://www.facebook.com/dccomics"><img src="{{ asset('img/footer-facebook.png') }}"
+                                alt="Facebook"></a>
                     </li>
                     <li>
-                        <a href="#"><img src="{{ asset('img/footer-twitter.png') }}" alt="Twitter"></a>
+                        <a href="https://twitter.com/dccomics"><img src="{{ asset('img/footer-twitter.png') }}"
+                                alt="Twitter"></a>
                     </li>
                     <li>
-                        <a href="#"><img src="{{ asset('img/footer-youtube.png') }}" alt="Youtube"></a>
+                        <a href="https://www.youtube.com/user/DCEntertainmentTV"><img
+                                src="{{ asset('img/footer-youtube.png') }}" alt="Youtube"></a>
                     </li>
                     <li>
-                        <a href="#"><img src="{{ asset('img/footer-pinterest.png') }}" alt="Pinterest"></a>
+                        <a href="https://www.pinterest.it/dccomics/"><img
+                                src="{{ asset('img/footer-pinterest.png') }}" alt="Pinterest"></a>
                     </li>
                     <li>
-                        <a href="#"><img src="{{ asset('img/footer-periscope.png') }}" alt="Periscope"></a>
+                        <a href="https://www.periscope.tv/DCComics/1ZkKzezXwZdxv"><img
+                                src="{{ asset('img/footer-periscope.png') }}" alt="Periscope"></a>
                     </li>
                 </ul>
             </div>
